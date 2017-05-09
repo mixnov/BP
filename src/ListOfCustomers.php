@@ -8,7 +8,7 @@
  */
 class ListOfCustomers
 {
-    const DATA_SOURCE_FILE_NAME = 'sample-data.csv';
+    const DATA_SOURCE_FILE_NAME = 'data/sample-data.csv';
 
     /**
      * Make HTML code to show the List
